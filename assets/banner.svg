@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Vidin Fund Chitalishta website">
+  <defs>
+    <style>
+      .t{font-family:'Segoe UI',Roboto,Arial,sans-serif}
+      .b{animation:b 4s ease-in-out infinite}
+      .b2{animation:b 4s ease-in-out infinite .6s}
+      .b3{animation:b 4s ease-in-out infinite 1.2s}
+      .b4{animation:b 4s ease-in-out infinite 1.8s}
+      @keyframes b{50%{transform:translateY(-12px)}}
+    </style>
+  </defs>
+  <rect width="1200" height="360" fill="#1B1A17"/>
+  <rect x="0" y="300" width="1200" height="60" fill="#F5F2EC"/>
+  <g class="b"><rect x="800" y="90" width="64" height="150" rx="10" fill="#6B21D6"/></g>
+  <g class="b2"><rect x="884" y="60" width="64" height="180" rx="10" fill="#019F53"/></g>
+  <g class="b3"><rect x="968" y="110" width="64" height="130" rx="10" fill="#FFD200"/></g>
+  <g class="b4"><rect x="1052" y="80" width="64" height="160" rx="10" fill="#F0508C"/></g>
+  <text x="70" y="128" class="t" font-size="30" fill="#FFD200" font-weight="600">Website</text>
+  <text x="70" y="200" class="t" font-size="64" font-weight="800" fill="#F5F2EC">Vidin Fund</text>
+  <text x="70" y="264" class="t" font-size="64" font-weight="800" fill="#F5F2EC">&#8222;Chitalishta&#8220;</text>
+  <text x="70" y="338" class="t" font-size="22" fill="#1B1A17" font-weight="600">Bilingual  ·  editable by the team  ·  fast and static</text>
+</svg>
